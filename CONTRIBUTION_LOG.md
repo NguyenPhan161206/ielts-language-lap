@@ -25,6 +25,13 @@ Chronological record of research sessions, source deconstructions, and skill pra
   - Created `02_skills_mastery/writing/exercises/WT1-letter-prompt-bank.md` — 24 practice prompts across informal / semi-formal / formal + 5 tech/business stretch prompts.
 - **Focus:** Register control + letter skeleton (Band 3.5 → 5.5).
 
+## [2026-09-22] — Dual-Band Review of Application Letters (C1, C1b)
+- **Activities:**
+  - Created `02_skills_mastery/writing/personal_expression/WT1-letter-cafe-application-review.md` — C1 draft scored 4.0; Version A (5.5–6.0) + Version B (7.0).
+  - Created `02_skills_mastery/writing/personal_expression/WT1-letter-it-application-review.md` — C1b draft scored 4.0; dual-band versions + vocab note "selective screening process".
+  - Encoded **Dual-Band Correction** as permanent directive #5 in `.opencode/agents/ielts-stylistic-coach.md`.
+- **Focus:** Formal application register; accuracy drag vs strong content; career-synergy letters (café marketing → IT support).
+
 ## [2026-09-23] — Speaking Vocab Log: Work Roles & Attitudes
 - **Activities:**
   - Created `02_skills_mastery/speaking/lessons/SP-work-role-attitude-vocab.md` — vocab-log entry for *in charge (of) · enthusiasm · enthusiastically* with full Vocab-Log format (nuance, collocations, word family, examples), grammar trap table, collocation map, and Part 1 + GT Task 1 application exercises.
