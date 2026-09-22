@@ -29,3 +29,13 @@ Chronological record of research sessions, source deconstructions, and skill pra
 - **Activities:**
   - Created `02_skills_mastery/speaking/lessons/SP-work-role-attitude-vocab.md` — vocab-log entry for *in charge (of) · enthusiasm · enthusiastically* with full Vocab-Log format (nuance, collocations, word family, examples), grammar trap table, collocation map, and Part 1 + GT Task 1 application exercises.
 - **Focus:** Speaking Part 1/2 work & attitude cluster + workplace letter register; eliminating preposition/adverb errors (*in charge of*, *enthusiasm for*, *enthusiastically* vs *enthusiastic*).
+
+## [2026-09-23] — Writing Task 2 Vocab: Relevant Word Family
+- **Activities:**
+  - Created `02_skills_mastery/writing/lessons/WT2-relevant-word-family-vocab.md` — vocab-log entry for *relevant · relevance · irrelevant* (AWL core word) with spelling trap (*relevent*), preposition rules (*relevant to*), collocation map, and Task 2 rewrite exercise.
+- **Focus:** Task Response + Lexical Resource; eliminating *relevent/with/unrelevant/relate* errors.
+
+## [2026-09-23] — Writing Task 2 Vocab: Selection & Choice Register Ladder
+- **Activities:**
+  - Created `02_skills_mastery/writing/lessons/WT2-selection-choice-vocab.md` — register-ladder vocab log for the "tuyển chọn" cluster: *choose · select/selection · handpick · curate/curation · recruit/recruitment*, with register ladder table, collocation map, grammar traps, and Task 2 exercise.
+- **Focus:** Register precision for Lexical Resource (band 6.5+); breaking the Viet-nese habit of using one word "chọn" for every context; career tie-in via *data curation* in AI.
