@@ -12,7 +12,7 @@ This repository is deeply integrated with the main **[Researching Diary](https:/
 - `02_skills_mastery/`: Deep-dive modules across the four IELTS core skills:
   - `writing/`: Lessons, exercises, and personal expression/voice logs.
   - `speaking/`: Frameworks, story banks, debates, and pronunciation logs.
-  - `reading/`: Question types, skimming speed, and analytical reading logs.
+  - `reading/`: Question types, skimming speed, analytical reading logs, topic vocabulary lessons (`lessons/`), and stored exercises with answer keys (`exercises/`).
   - `listening/`: Section strategies, dictation logs, and phonics deep-dives.
 - `03_source_library/`: Reading and research materials deconstructed into lexical roots, syntactic structures, and rhetorical devices.
 - `04_cognitive_evaluations/`: Thinking profiles, skill gap analysis, and knowledge transfer logs.
