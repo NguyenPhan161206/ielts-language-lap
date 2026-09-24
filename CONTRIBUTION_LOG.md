@@ -46,3 +46,8 @@ Chronological record of research sessions, source deconstructions, and skill pra
 - **Activities:**
   - Created `02_skills_mastery/writing/lessons/WT2-selection-choice-vocab.md` — register-ladder vocab log for the "tuyển chọn" cluster: *choose · select/selection · handpick · curate/curation · recruit/recruitment*, with register ladder table, collocation map, grammar traps, and Task 2 exercise.
 - **Focus:** Register precision for Lexical Resource (band 6.5+); breaking the Viet-nese habit of using one word "chọn" for every context; career tie-in via *data curation* in AI.
+
+## [2026-09-24] — Reading GT Section 2 Vocab: Registration Cluster
+- **Activities:**
+  - Created `02_skills_mastery/reading/lessons/RD-registry-general-training-section2-vocab.md` — vocab-log entry for *register · registration · registry* (hồ sơ/thủ tục đăng ký) with nuance breakdown, collocation map, grammar trap table, and Reading GT Section 2 + GT Task 1 application exercises.
+- **Focus:** Topic vocabulary for GT Reading Section 2 (notices/procedures) and Task 1 letters of inquiry; eliminating *sign up a course / registered in / registry fee / registration of* errors; distinguishing action (register) vs process (registration) vs record (registry).

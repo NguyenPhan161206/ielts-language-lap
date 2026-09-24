@@ -23,10 +23,10 @@ Mon  Tue  Wed  Thu  Fri  Sat  Sun
  ░░   ░░   ░░   ░░   ░░   ░░   ░░
 
  22   23   24   25   26   27   28
- ██   ░░   ░░   ░░   ░░   ░░   ░░
+  ██   ░░   ▓▓   ░░   ░░   ░░   ░░
 
  29   30
  ░░   ░░
 ```
 
-*Streak Status: Active (1 day)*
+*Streak Status: Active (2 days)*
