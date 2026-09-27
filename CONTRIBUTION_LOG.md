@@ -47,6 +47,11 @@ Chronological record of research sessions, source deconstructions, and skill pra
   - Created `02_skills_mastery/writing/lessons/WT2-selection-choice-vocab.md` — register-ladder vocab log for the "tuyển chọn" cluster: *choose · select/selection · handpick · curate/curation · recruit/recruitment*, with register ladder table, collocation map, grammar traps, and Task 2 exercise.
 - **Focus:** Register precision for Lexical Resource (band 6.5+); breaking the Viet-nese habit of using one word "chọn" for every context; career tie-in via *data curation* in AI.
 
+## [2026-09-23] — Bridge: Pending Tech-Vocab
+- **Activities:**
+  - Created `05_bridges/BR-pending-tech-vocab-bridge.md` — cross-repo bridge entry for *pending* (adjective + preposition) mapping tech workflow (Git/Kanban/API) to IELTS usage (Speaking Part 1, Reading matching), with collocation map, trap table, and application example.
+- **Focus:** Reusing daily tech vocabulary as free IELTS lexical resource; distinguishing *pending* vs *waiting* vs *impending*.
+
 ## [2026-09-24] — Reading GT Section 2 Vocab: Registration Cluster
 - **Activities:**
   - Created `02_skills_mastery/reading/lessons/RD-registry-general-training-section2-vocab.md` — vocab-log entry for *register · registration · registry* (hồ sơ/thủ tục đăng ký) with nuance breakdown, collocation map, grammar trap table, and Reading GT Section 2 + GT Task 1 application exercises.
