@@ -26,7 +26,9 @@ Mon  Tue  Wed  Thu  Fri  Sat  Sun
   ██   ░░   ▓▓   ░░   ░░   ░░   ░░
 
  29   30
- ░░   ░░
+ ░░   ▓▓
 ```
 
-*Streak Status: Active (2 days)*
+*Streak Status: Active (1 day — 30 Sep, restarted after a 2-day gap)*
+
+**Session note (30 Sep):** 1 heavy note — `SP-personality-traits-vocab.md` (66 từ, vocab-log format). Marked ▓▓ as a single-entry session; the *content* density was heavy but it is one file, so the legend was applied to file count.

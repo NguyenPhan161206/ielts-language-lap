@@ -56,3 +56,19 @@ Chronological record of research sessions, source deconstructions, and skill pra
 - **Activities:**
   - Created `02_skills_mastery/reading/lessons/RD-registry-general-training-section2-vocab.md` — vocab-log entry for *register · registration · registry* (hồ sơ/thủ tục đăng ký) with nuance breakdown, collocation map, grammar trap table, and Reading GT Section 2 + GT Task 1 application exercises.
 - **Focus:** Topic vocabulary for GT Reading Section 2 (notices/procedures) and Task 1 letters of inquiry; eliminating *sign up a course / registered in / registry fee / registration of* errors; distinguishing action (register) vs process (registration) vs record (registry).
+
+---
+
+## [2026-09-30] — Speaking Vocab: Personality Adjectives (Whiteboard Recall, 66 mục / 70 từ)
+- **Activities:**
+  - Created `02_skills_mastery/speaking/lessons/SP-personality-traits-vocab.md` — vocab-log entry chuyển từ bảng trắng lớp học (3 nhóm / 6 ô chứa **66 mục** = **70 từ**: Neutral 18 ô · Positive Cột 1 = 17 phẩm chất · Positive Cột 2&3 = 23+2 khí chất & cách ứng xử · Negative 8 ô đọc được. 2 ô chứa cặp *introvert/extrovert* và *cynical/cruel*; *gentle*/*faithful* bị viết hai lần ở 2 cột — giải thích ngay trong note để khỏi nhầm số).
+  - Bảng 3 nhóm đầy đủ kèm POS, sắc thái cốt lõi và lỗi thường gặp cho từng từ; bảng **đảo sắc thái theo ngành** (sensitive / nonchalant / unemotional / passive / greedy / selfish / lazy / ruthless / intuitive / impersonal) — cùng một từ, ba ngành, ba sắc thái.
+  - **10 mục Deep Dive** theo 7 trường của `/vocab-log` cho các từ bẫy nhiều nhất: sensitive · nonchalant · unemotional · intuitive vs impulsive · selfish · greedy · lazy (3-way với idle/inactive) · sociable · direct (cặp direct–forthright–blunt–candid–diplomatic) · gia đình âm/dương âm (outgoing/thoughtless/priceless/invaluable).
+  - **§3 bộ máy "-ness" → tính từ**: 6 quy tắc sinh từ + áp dụng cho 5 danh từ trên bảng + 3 lỗi học thường gặp; giải thích vì sao **tính từ = trait** còn **danh từ `-ness` = state** (phân biệt trait/state trong tâm lý học nhân cách).
+  - **§4 phòng chẩn đoán**: 5 từ bảng xế Neutral nhưng tiếng Anh đọc là tiêu cực, kèm cột "viết lại cho an toàn".
+  - **§5 bảng ~50 cặp từ trái nghĩa** (ghi nhớ theo cặp thay vì 3 danh sách rời) + 3 cặp hay hỏi nhất ở Part 3.
+  - **§6 mở rộng** các ô Negative bị mờ: 20 từ tiêu cực tần suất cao, 6 từ "tích cực" hay bị xế nhầm vào Neutral (easy-going, disciplined, no-nonsense…), 6 cụm từ đặc trưng, charisma (gốc Hy Lạp + charismatic authority của Max Weber), và lỗi giới từ của *devote*.
+  - **§7 ứng dụng**: bộ câu hỏi IELTS dùng được ngay bộ từ này · khung 6 bước cho Part 2 *Describe a person you admire* · 2 bảng Raw→Refined (GT Task 1 recommendation letter + Part 2) · 10 câu drill.
+  - **§8 bài tập tự luyện** 26 mục (chọn từ, sửa Viet-glish, paraphrase, trả lời 2 phút, phân biệt cặp từ) + phiếu tự chấm 6 tiêu chí.
+  - Liên kết chéo 2 chiều với bản phân tích tiếng Anh đầy đủ ở `reaserching-diary/vocabulary/13-...`.
+- **Focus:** Lexical Resource + paraphrase trong Speaking Part 2/3 và register trang trọng ở Writing GT Task 1; hệ thống hóa 70 từ rời thành 6 quy tắc sinh từ + ~50 cặp trái nghĩa; xử lý các từ mà bảng trắng xế sai sắc thái so với tiếng Anh.
